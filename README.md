@@ -19,5 +19,6 @@
 
 <p align="left">
 <p><a href="https://www.linkedin.com/in/jhamil-fernandez/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" alt="Jhamil Fernandez" height="40" width="40" /></a></p>
+<a href="https://www.linkedin.com/in/jhamil-fernandez/" target="_blank"> Personal Website And Portfolio </a>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jfernandez141&label=Profile%20views&color=0C2E4D&style=flat" alt="danielhernandezgalvez" /> </p>
 
