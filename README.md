@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on backend development
+- 🔭 I’m currently working on Holafly as a Backend Developer
 
 - 🌱 I’m currently learning **Docker**
 
