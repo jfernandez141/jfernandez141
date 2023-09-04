@@ -8,11 +8,11 @@
 
 
 
-- 🔭 I’m currently working at Holafly as a Backend Developer
+- 🔭 I’m currently working at [Holafly](https://esim.holafly.com)  as a Backend Developer
 
 - 🌱 I’m currently learning **Docker**
 
-- 👨‍💻 All of my projects are available at [https://jhamilfernandez.com/](https://jhamilfernandez.com/)
+- 👨‍💻 All of my projects are available at [jhamilfernandez.com](https://jhamilfernandez.com/)
 
 - ⚡ Fun fact **I love to much cats.**
 
