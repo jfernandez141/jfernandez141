@@ -4,8 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Jhamil Fernandez</h1>
-<h3 align="justify">Experienced Full Stack web developer with a background in finance and data analysis, specializing in backend development. Proficient in JavaScript and Python, with expertise in API development, full stack web pages, and payment gateways. Skilled in using technologies such as React, Redux, Node.js, Express, Sequelize, and PostgreSQL. Experienced in administrative management and familiar with programming tools like Visual Studio Code. Well-versed in agile Scrum methodologies. Advanced English proficiency (B2). Committed, goal-oriented, and able to lead and collaborate effectively in teams for optimal results.</h3>
-
+Experienced Full Stack web developer with a background in finance and data analysis, specializing in backend development. Proficient in JavaScript and Python, with expertise in API development, full stack web pages, and payment gateways. Skilled in using technologies such as React, Redux, Node.js, Express, Sequelize, and PostgreSQL. Experienced in administrative management and familiar with programming tools like Visual Studio Code. Well-versed in agile Scrum methodologies. Advanced English proficiency (B2). Committed, goal-oriented, and able to lead and collaborate effectively in teams for optimal results.
 
 
 - 🔭 I’m currently working at [Holafly](https://esim.holafly.com)  as a Backend Developer
